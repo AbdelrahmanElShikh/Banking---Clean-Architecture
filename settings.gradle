@@ -1,0 +1,2 @@
+include ':app', ':domain', ':presentation', ':remote', ':data'
+rootProject.name='Banking'
